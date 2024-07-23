@@ -1,0 +1,56 @@
+/* styles.css */
+.nav-link.active {
+    font-weight: bold;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+  }
+  body.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  .section {
+    padding: 50px 0;
+  }
+  .section-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .section-content {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  .project-item {
+    margin-bottom: 20px;
+  }
+  .project-title {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  .project-description {
+    font-size: 16px;
+  }
+  .github-link {
+    font-size: 14px;
+  }
+  .sub-section {
+    margin-top: 20px;
+  }
+  .sub-section-heading {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  .sub-section-item {
+    margin-bottom: 15px;
+  }
+  .sub-section-title {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  .sub-section-author {
+    font-size: 16px;
+  }
+  .pdf-link {
+    font-size: 14px;
+  }
