@@ -15,6 +15,7 @@ $(function(){
 
   $(function() {
     $("#header-placeholder").load("header.html", function() {
+        // access control allow origin
       // Execute the active link highlighting script here
       var path = window.location.pathname;
       var page = path.split("/").pop();
